@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|c:\\users\\fptshop\\source\\repos\\bds\\bds\\bds\\areas\\admin\\views\\batdongsan\\createdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\admin\\views\\batdongsan\\createdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|c:\\users\\fptshop\\source\\repos\\bds\\bds\\bds\\areas\\user\\views\\batdongsan\\createdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\views\\batdongsan\\createdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\user\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|c:\\users\\fptshop\\source\\repos\\bds\\bds\\bds\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\afmodels\\chitietbatdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|solutionrelative:afmodels\\chitietbatdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|c:\\users\\fptshop\\source\\repos\\bds\\bds\\bds\\areas\\user\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\user\\views\\user\\editinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\views\\user\\editinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|c:\\users\\fptshop\\source\\repos\\bds\\bds\\bds\\areas\\user\\views\\user\\binhluan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\views\\user\\binhluan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\afmodels\\batdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|solutionrelative:afmodels\\batdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\dao\\batdongsandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\dao\\batdongsandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\dao\\lienhedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\dao\\lienhedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\admin\\views\\batdongsan\\batdongsan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\admin\\views\\batdongsan\\batdongsan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\afmodels\\batdongsancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|solutionrelative:afmodels\\batdongsancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\dao\\thanhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\dao\\thanhviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\afmodels\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{852A5AE8-D1A2-4BA8-9ABB-7B69363E2FA6}|AFModels\\AFModels.csproj|solutionrelative:afmodels\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\user\\controllers\\batdongsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\controllers\\batdongsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\user\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\user\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\bds\\areas\\admin\\controllers\\batdongsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\admin\\controllers\\batdongsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\Admin\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\Admin\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\Admin\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\Admin\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:58:01.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\User\\Views\\BatDongSan\\CreateDetail.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:48:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\User\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:46:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BinhLuan.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\BinhLuan.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Views\\User\\BinhLuan.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\BinhLuan.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\User\\Views\\User\\BinhLuan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:30:37.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "BDS\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "BDS\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:59:33.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietBatDongSan.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\ChiTietBatDongSan.cs",
+              "RelativeDocumentMoniker": "AFModels\\ChiTietBatDongSan.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\ChiTietBatDongSan.cs",
+              "RelativeToolTip": "AFModels\\ChiTietBatDongSan.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:43:01.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BatDongSan.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\BatDongSan.cs",
+              "RelativeDocumentMoniker": "AFModels\\BatDongSan.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\BatDongSan.cs",
+              "RelativeToolTip": "AFModels\\BatDongSan.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:42:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\NhanVien.cs",
+              "RelativeDocumentMoniker": "AFModels\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\NhanVien.cs",
+              "RelativeToolTip": "AFModels\\NhanVien.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:42:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienDAO.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\NhanVienDAO.cs",
+              "RelativeDocumentMoniker": "BDS\\DAO\\NhanVienDAO.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\NhanVienDAO.cs",
+              "RelativeToolTip": "BDS\\DAO\\NhanVienDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:41:57.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Views\\User\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\Detail.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\User\\Views\\User\\Detail.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T16:35:07.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BatDongSanContext.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\BatDongSanContext.cs",
+              "RelativeDocumentMoniker": "AFModels\\BatDongSanContext.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\AFModels\\BatDongSanContext.cs",
+              "RelativeToolTip": "AFModels\\BatDongSanContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:42:59.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BatDongSanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\BatDongSanDAO.cs",
+              "RelativeDocumentMoniker": "BDS\\DAO\\BatDongSanDAO.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\BatDongSanDAO.cs",
+              "RelativeToolTip": "BDS\\DAO\\BatDongSanDAO.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:10:53.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\EditInfo.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Views\\User\\EditInfo.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\EditInfo.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\User\\Views\\User\\EditInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T16:35:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LienHeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\LienHeDAO.cs",
+              "RelativeDocumentMoniker": "BDS\\DAO\\LienHeDAO.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\LienHeDAO.cs",
+              "RelativeToolTip": "BDS\\DAO\\LienHeDAO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAGAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:49:36.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThanhVienDAO.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\ThanhVienDAO.cs",
+              "RelativeDocumentMoniker": "BDS\\DAO\\ThanhVienDAO.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\DAO\\ThanhVienDAO.cs",
+              "RelativeToolTip": "BDS\\DAO\\ThanhVienDAO.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:42:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BDS\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BDS\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:59:28.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "BDS\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "BDS\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:59:31.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BatDongSan.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\Admin\\Views\\BatDongSan\\BatDongSan.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\Admin\\Views\\BatDongSan\\BatDongSan.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\Admin\\Views\\BatDongSan\\BatDongSan.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\Admin\\Views\\BatDongSan\\BatDongSan.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T22:04:34.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BDS\\Areas\\User\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwBgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:35:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BatDongSanController.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "RelativeDocumentMoniker": "BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "RelativeToolTip": "BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:55:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "BDS\\Areas\\User\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T16:35:07.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BatDongSanController.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Controllers\\BatDongSanController.cs",
+              "RelativeDocumentMoniker": "BDS\\Areas\\User\\Controllers\\BatDongSanController.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\source\\repos\\BDS\\BDS\\BDS\\Areas\\User\\Controllers\\BatDongSanController.cs",
+              "RelativeToolTip": "BDS\\Areas\\User\\Controllers\\BatDongSanController.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAAADYBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:35:07.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
